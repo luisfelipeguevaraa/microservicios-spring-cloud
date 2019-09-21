@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/es.rama.books.microservices.cesta.iml" filepath="$PROJECT_DIR$/es.rama.books.microservices.cesta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es.rama.books.microservices.cesta.main.iml" filepath="$PROJECT_DIR$/.idea/modules/es.rama.books.microservices.cesta.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/es.rama.books.microservices.cesta.test.iml" filepath="$PROJECT_DIR$/.idea/modules/es.rama.books.microservices.cesta.test.iml" />
+    </modules>
+  </component>
+</project>

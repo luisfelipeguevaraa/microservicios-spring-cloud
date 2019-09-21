@@ -1,0 +1,19 @@
+server:
+  port: 4444
+
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+      overrideSystemProperties: false
+      server:
+        git:
+          uri: https://github.com/luisfelipeguevaraa/es.books.microservices.serverconfig
+               
+security:
+  basic:
+    enabled: true
+  user:
+    name: admin
+    password: '{cipher}baa9a591edb3925706ccc5b2144758cc8ed7e7bc05bfc2fa6fa57210f9688c44'
